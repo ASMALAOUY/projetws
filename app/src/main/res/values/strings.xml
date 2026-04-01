@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projetws</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="ville">Ville</string>
+    <string name="sexe">Sexe</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="voir_liste">Voir la liste</string>
+    <string name="gestion_etudiants">Gestion des Étudiants</string>
+    <string name="ajouter_etudiant">Ajouter un étudiant</string>
+    <string name="liste_etudiants">Liste des étudiants</string>
+</resources>
